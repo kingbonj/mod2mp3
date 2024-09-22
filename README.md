@@ -7,6 +7,7 @@ This Bash script automates the process of converting `.mod` files to `.mp3` usin
 Ensure the following software is installed on your system before running the script:
 
 `xmp       (for converting .mod files to .wav)`
+
 `ffmpeg    (for converting .wav files to .mp3)`
 
 Both packages are available via most Linux package managers such as `apt` (Debian/Ubuntu), `dnf` (Fedora), and `yum` (CentOS).
